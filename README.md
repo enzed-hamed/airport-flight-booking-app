@@ -16,8 +16,8 @@ Includes 9 python scripts and a png picture. These python modules form different
 First create and populate a database by running scripts in **db scripts** directory. Now move the database in the same folder as application code files (**src** here) and execute the application by running **main.py**.
 
 ### Here are some photoes of application 
-![flight booking panel](demo%20pics/home.png =200x200)
-![auto suggestion and filtering when typing inside fields](demo%20pics/autosuggest.png =300x300)
+![flight booking panel](demo%20pics/home.png=200x200)
+![auto suggestion and filtering when typing inside fields](demo%20pics/autosuggest.png=300x300)
 ![auto fill all field when selecting a flight](demo%20pics/flight%20select.png)
 ![manager panel displays registered airplanes](demo%20pics/main.png)
 ![manager panel displays registered tour companies](demo%20pics/main2.png)
