@@ -17,4 +17,4 @@ First create and populate a database by running scripts in **db scripts** direct
 
 ### Here are some photoes of application 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-![flight booking panel](pics/pass.png)
+![flight booking panel](demo%20pics/home.png)
