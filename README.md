@@ -1,2 +1,2 @@
-# ticket-reserve-system
-This is a python student progect application for buying tickets. It makes use of databases.
+# Ticket Reserve System
+This is a python student project application for buying tickets. It makes use of databases.
