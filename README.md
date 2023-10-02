@@ -14,3 +14,6 @@ Includes 9 python scripts and a png picture. These python modules form different
 
 ## Running the application
 First create and populate a database by running scripts in **db scripts** directory. Now move the database in the same folder as application code files (**src** here) and execute the application by running **main.py**.
+
+### Here are some photoes of application 
+![flight booking panel](demo pics/home.png)
