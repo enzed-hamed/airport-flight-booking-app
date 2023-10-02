@@ -1,7 +1,7 @@
 # Ticket Reserve System
 This is a python student project application for buying tickets. It makes use of databases.
 
-I was the team leader in this project and while managing 3 other students, I also coded some of the main parts of application and wrote one of the documents.
+I was the team leader in this project and while managing my team consisting of two other students, I also coded some of the main parts of application and prepared one of the documents.
 
 ### db scripts
 Includes two scripts for creating sqlite database and populating it with random data. This database corresponds to a Airport.
