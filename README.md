@@ -16,4 +16,5 @@ Includes 9 python scripts and a png picture. These python modules form different
 First create and populate a database by running scripts in **db scripts** directory. Now move the database in the same folder as application code files (**src** here) and execute the application by running **main.py**.
 
 ### Here are some photoes of application 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 ![flight booking panel](demo pics/home.png)
