@@ -1,5 +1,5 @@
 # Flight Booking Application
-This is an student project to practice working with databases. It is in **python** uses **sqlite**.
+This is an student project to practice working with databases. It is in **python** and uses **sqlite**.
 
 I was the team leader in this project and while managing my team consisting of two other students, I also coded some of the main parts of application and prepared one of the documents.
 
